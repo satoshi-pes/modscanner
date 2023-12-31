@@ -1,0 +1,2 @@
+# modscanner
+modified bufio/scanner
